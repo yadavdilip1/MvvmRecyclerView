@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MvvmRecyclerView</string>
+    <string name="ok">Ok</string>
+    <string name="total_movies">%1$d movies</string>
+    <string name="view_all">view all</string>
+
+
+</resources>
